@@ -1,0 +1,8 @@
+{
+ab = ARBOL_BINARIO;
+ab.add(20);
+ab.add(3);
+ab.add(33);
+ab.add(53);
+ab.add(1);
+}

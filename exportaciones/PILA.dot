@@ -1,0 +1,11 @@
+digraph G {
+rankdir=LR;
+node [shape=record];
+p [label="<f0>2|
+<f1>173|
+<f2>10|
+<f3>73|
+<f4>5|
+<f5>52|
+<f6>20"];
+}
